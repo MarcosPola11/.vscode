@@ -1,0 +1,34 @@
+.title{
+    color:black;
+    width: 50%;
+    margin-left: 450px;
+    }
+
+.titulos{
+    color: black;
+    width: 40%;
+    margin-left: 1px;
+    border: 4px solid black;
+}
+
+.textos{  
+color: black;
+    width: 40%;
+    margin-left: 1px;
+    border: 4px solid white;
+}
+
+.body{
+border: 10px solid gray;
+padding: 5px;
+width:1500px;
+height: 1500 px;
+text-align: justify;
+}
+
+
+
+
+
+
+
